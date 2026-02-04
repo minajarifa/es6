@@ -14,6 +14,6 @@ const add2 = (num1, num2) => {
 const result = add2(10 + 10);
 // console.log(result);
 
-const multiply = (a , b)=>a*b
-const mult = multiply(4,50)
-console.log(mult)
+const multiply = (a, b) => a * b;
+const mult = multiply(4, 50);
+console.log(mult);
