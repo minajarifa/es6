@@ -8,4 +8,5 @@ const employee ={
 const keys = Object.keys(employee)
 const value = Object.values(employee)
 const entries = Object.entries(employee)
-console.log(entries)
+const freeze = Object.freeze(employee)
+console.log(employee)
